@@ -1,0 +1,258 @@
+[
+  {
+    "index": 0,
+    "name": "cipher0.txt",
+    "keyword": "plato",
+    "keywordLength": 5,
+    "coincidenceIndex": 0.06621848926915615,
+    "textPreview": "neithermustweforgetthatth"
+  },
+  {
+    "index": 1,
+    "name": "cipher1.txt",
+    "keyword": "cristian",
+    "keywordLength": 8,
+    "coincidenceIndex": 0.08251449159327462,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 2,
+    "name": "cipher2.txt",
+    "keyword": "david",
+    "keywordLength": 5,
+    "coincidenceIndex": 0.08273046523261632,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 3,
+    "name": "cipher3.txt",
+    "keyword": "diego",
+    "keywordLength": 5,
+    "coincidenceIndex": 0.08273046523261632,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 4,
+    "name": "cipher4.txt",
+    "keyword": "eduardo",
+    "keywordLength": 7,
+    "coincidenceIndex": 0.08257542474655015,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 5,
+    "name": "cipher5.txt",
+    "keyword": "felipe",
+    "keywordLength": 6,
+    "coincidenceIndex": 0.0825747137649463,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 6,
+    "name": "cipher6.txt",
+    "keyword": "girotto",
+    "keywordLength": 7,
+    "coincidenceIndex": 0.08257542474655015,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 7,
+    "name": "cipher7.txt",
+    "keyword": "gregory",
+    "keywordLength": 7,
+    "coincidenceIndex": 0.08257542474655015,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 8,
+    "name": "cipher8.txt",
+    "keyword": "hercilio",
+    "keywordLength": 8,
+    "coincidenceIndex": 0.08251449159327462,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 9,
+    "name": "cipher9.txt",
+    "keyword": "maurer",
+    "keywordLength": 6,
+    "coincidenceIndex": 0.0825747137649463,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 10,
+    "name": "cipher10.txt",
+    "keyword": "rangel",
+    "keywordLength": 6,
+    "coincidenceIndex": 0.0825747137649463,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 11,
+    "name": "cipher11.txt",
+    "keyword": "jerusalem",
+    "keywordLength": 9,
+    "coincidenceIndex": 0.08270305933957191,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 12,
+    "name": "cipher12.txt",
+    "keyword": "software",
+    "keywordLength": 8,
+    "coincidenceIndex": 0.08251449159327462,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 13,
+    "name": "cipher13.txt",
+    "keyword": "igor",
+    "keywordLength": 4,
+    "coincidenceIndex": 0.08257190876350541,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 14,
+    "name": "cipher14.txt",
+    "keyword": "joaopedro",
+    "keywordLength": 9,
+    "coincidenceIndex": 0.08270305933957191,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 15,
+    "name": "cipher15.txt",
+    "keyword": "stein",
+    "keywordLength": 5,
+    "coincidenceIndex": 0.08273046523261632,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 16,
+    "name": "cipher16.txt",
+    "keyword": "schuler",
+    "keywordLength": 7,
+    "coincidenceIndex": 0.08257542474655015,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 17,
+    "name": "cipher17.txt",
+    "keyword": "marcelo",
+    "keywordLength": 7,
+    "coincidenceIndex": 0.08257542474655015,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 18,
+    "name": "cipher18.txt",
+    "keyword": "mateus",
+    "keywordLength": 6,
+    "coincidenceIndex": 0.0825747137649463,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 19,
+    "name": "cipher19.txt",
+    "keyword": "matheus",
+    "keywordLength": 7,
+    "coincidenceIndex": 0.08257542474655015,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 20,
+    "name": "cipher20.txt",
+    "keyword": "mathias",
+    "keywordLength": 7,
+    "coincidenceIndex": 0.08257542474655015,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 21,
+    "name": "cipher21.txt",
+    "keyword": "paulo",
+    "keywordLength": 5,
+    "coincidenceIndex": 0.08273046523261632,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 22,
+    "name": "cipher22.txt",
+    "keyword": "ritter",
+    "keywordLength": 6,
+    "coincidenceIndex": 0.0825747137649463,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 23,
+    "name": "cipher23.txt",
+    "keyword": "companhoni",
+    "keywordLength": 10,
+    "coincidenceIndex": 0.08266246246246246,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 24,
+    "name": "cipher24.txt",
+    "keyword": "cadaval",
+    "keywordLength": 7,
+    "coincidenceIndex": 0.08257542474655015,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 25,
+    "name": "cipher25.txt",
+    "keyword": "renata",
+    "keywordLength": 6,
+    "coincidenceIndex": 0.0825747137649463,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 26,
+    "name": "cipher26.txt",
+    "keyword": "ricardo",
+    "keywordLength": 7,
+    "coincidenceIndex": 0.08257542474655015,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 27,
+    "name": "cipher27.txt",
+    "keyword": "rodrigo",
+    "keywordLength": 7,
+    "coincidenceIndex": 0.08257542474655015,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 28,
+    "name": "cipher28.txt",
+    "keyword": "branco",
+    "keywordLength": 6,
+    "coincidenceIndex": 0.0825747137649463,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 29,
+    "name": "cipher29.txt",
+    "keyword": "kroth",
+    "keywordLength": 5,
+    "coincidenceIndex": 0.08273046523261632,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 30,
+    "name": "cipher30.txt",
+    "keyword": "virgilius",
+    "keywordLength": 9,
+    "coincidenceIndex": 0.08270305933957191,
+    "textPreview": "bibliasagradatraducaojoao"
+  },
+  {
+    "index": 31,
+    "name": "cipher31.txt",
+    "keyword": "vitor",
+    "keywordLength": 5,
+    "coincidenceIndex": 0.08273046523261632,
+    "textPreview": "bibliasagradatraducaojoao"
+  }
+]
